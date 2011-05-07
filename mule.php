@@ -1,4 +1,11 @@
 <?php
+/*
+ * Mule CMS v0.1
+ * The PHP engine for small sites
+ * http://flexbyte.com/mule-cms/
+ *
+ * (c) 2011 Flexbyte Software, released under BSD license
+ */
 
 class Mule
 {
